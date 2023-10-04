@@ -137,7 +137,10 @@ The cities with the highest churn rates were San Jose, San Francisco, Los Angele
 - The analysis reveals that internet service offerings heavily influence revenue generation. The company should focus on enhancing its internet services, such as improving connection reliability and offering competitive data packages. This can attract more customers and increase overall revenue.
 - The cities with the highest churn rates, including San Jose, San Francisco, Los Angeles, Sacramento, and Long Beach, require special attention. By closely monitoring the churn reason and preferences of customers in these cities, the company can devise location-specific strategies to address pain points and improve customer overall satisfaction.
 
---- Visualisation:
+
+---
+
+## Visualisation:
 
 This project consists of three dashboards:
 
