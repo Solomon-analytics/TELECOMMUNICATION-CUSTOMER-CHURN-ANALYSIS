@@ -140,6 +140,7 @@ The cities with the highest churn rates were San Jose, San Francisco, Los Angele
 
 ---
 
+
 ## Visualisation:
 
 This project consists of three dashboards:
