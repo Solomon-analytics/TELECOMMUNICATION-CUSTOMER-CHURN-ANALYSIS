@@ -46,7 +46,7 @@ The original dataset for this project was obtained from IBM Business Analytics C
 
 ## Data Modelling
 
-![](telco_churn109.jpeg)
+![](new_model.jpeg)
 
 The model is a star schema.
 There are 5-dimension tables and 1 fact table. The dimension tabls are all joined to the fact table with a one-to-many relationship.
